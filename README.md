@@ -1,3 +1,7 @@
+<p align="center">
+<img src="AvatarMaker.png" alt="Sahil Khan" width="200" height="200" style="border-radius: 50%;">
+
+</p>
 <h1 align="center">Hi 👋, I'm Pooja Yadav</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
