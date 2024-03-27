@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojayadav16&label=Profile%20views&color=0e75b6&style=flat" alt="poojayadav16" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **MERN stack and related technologies**
 
